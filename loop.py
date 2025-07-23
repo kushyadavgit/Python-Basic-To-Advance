@@ -11,16 +11,23 @@
 # for i  in range(1,n+1):
 #     print(i)
 # Factorial of a number using loop.
-n = 5
-fac= 1
-for i  in range (1,n+1):
-    fac *= i
-    print(fac)
+# n = 5
+# fac= 1
+# for i  in range (1,n+1):
+#     fac *= i
+#     print(fac)
 # Table of a number (e.g., 5 × 1 = 5 … 5 × 10 = 50).
+# n = 5
+# for i in range (1, 11):
+#     print(n,"x",i ,"=",n*i)
+
 
 # Count digits in a number.
 
+
+
 # Reverse a number (e.g., 123 → 321).
+
 
 # Check if a number is a palindrome.
 
